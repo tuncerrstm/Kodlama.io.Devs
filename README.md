@@ -1,7 +1,6 @@
 # Kodlama.io.Devs
-
 # Technology Management System
-<b>Technology Management System a Java Spring Boot Project.</b>
+Technology Management System a Java Spring Boot Project.
 - This project is a Java Spring Boot project developed for [kodlama.io](https://www.kodlama.io/) Bootcamp Homework.
 
 <div id="badges" align="left">
