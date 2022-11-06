@@ -1,5 +1,5 @@
 # Kodlama.io.Devs
-# TechnologyManagementSystem
+# Technology Management System
 Technology Management System Java Spring Boot Project.
 - This project is a Java Spring Boot project developed for [kodlama.io](https://www.kodlama.io/) Bootcamp Homework.
 
